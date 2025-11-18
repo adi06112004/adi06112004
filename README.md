@@ -10,12 +10,12 @@
 
 ## 🔥 About Me
 - 🎓 B.Tech CSE student  
-- 💻 I develop **full-stack apps** using React.js & Node.js  
+- 💻 I build **full-stack applications** using React.js, Node.js & MongoDB  
 - 📱 Learning **React Native**  
 - ☕ Strong in **Java, OOPs & DSA**  
-- 🚀 Improving my backend skills  
-- 💡 Love solving problems & building useful projects  
+- 🚀 Exploring backend development & cloud  
 - 🎯 Goal: Become a top-tier full-stack developer  
+- 📬 Reach me at: **adityak2541@gmail.com**
 
 ---
 
@@ -41,11 +41,11 @@
 
 ## 📌 Featured Projects
 - 🔹 **Task Management System** – Admin assigns tasks, users update progress  
-- 🔹 **Finance & Referral App UI** – Dashboard, tasks, and UX-heavy UI  
-- 🔹 **CPI & SPI Calculator** – Custom tool for students  
-- 🔹 **Multiple React Frontend Projects** – Clean, modern UI/UX  
+- 🔹 **Finance & Referral App UI** – Dashboard, tasks, and UI/UX designs  
+- 🔹 **CPI & SPI Calculator** – Tool for calculating academic performance  
+- 🔹 **Multiple React Projects** – Modern UI with TailwindCSS  
 
-> More exciting projects coming soon...  
+> More projects coming soon...
 
 ---
 
@@ -73,16 +73,23 @@
 
 ---
 
-## 🔥 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+## 📈 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/technicaladitya93?theme=dark&font=source_code_pro&ext=heatmap" />
+</p>
+
+---
+
 ## 🧠 Competitive Programming
-- 💥 LeetCode: **[technicaladitya93](https://leetcode.com/u/technicaladitya93/)**  
-- Solving problems daily to improve DSA & logic thinking  
+- 🔥 LeetCode Profile: **[technicaladitya93](https://leetcode.com/u/technicaladitya93/)**  
+- 📈 Practicing DSA daily to improve logic & problem-solving  
 
 ---
 
@@ -93,4 +100,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Have a great day!*  
+⭐ **Thanks for visiting my profile! Have a great day!**
